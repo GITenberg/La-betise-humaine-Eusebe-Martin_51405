@@ -1,5 +1,8 @@
 _repo: La-betise-humaine-Eusebe-Martin_51405
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 51405-h/images/cover.png
 creator:
   author:
     agent_name: Noriac, Jules
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '45737'
     url: http://www.gutenberg.org/2009/agents/45737
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51405#La-betise-humaine-Eusebe-Martin
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2016-03-08'
 gutenberg_type: Text
